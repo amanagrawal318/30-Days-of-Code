@@ -1,2 +1,3 @@
 # 30-Days-of-Code
-hackerRank contest codes
+hackerRank contest solution in java
+
