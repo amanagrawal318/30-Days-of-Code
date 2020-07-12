@@ -19,7 +19,7 @@ class Student extends Person{
     *   Method Name: calculate
     *   @return A character denoting the grade.
     */
-    // Write your method here
+    //Write your method here
     public char calculate(){
         int sum=0;
         for(int i=0;i<testScores.length;i++){
