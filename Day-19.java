@@ -5,7 +5,7 @@ class Calculator implements AdvancedArithmetic {
         {
             if(n%i==0)
             {
-               ans+=i;
+              ans+=i;
             }
         }
         return ans;
