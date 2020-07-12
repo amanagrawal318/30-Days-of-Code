@@ -19,7 +19,6 @@ public class Solution {
             String[] firstNameEmailID = scanner.nextLine().split(" ");
 
             String firstName = firstNameEmailID[0];
-
             String emailID = firstNameEmailID[1];
             if(emailID.contains("@gmail.com")){
                 regex.add(firstName);
