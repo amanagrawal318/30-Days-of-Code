@@ -14,7 +14,7 @@ class Solution{
         }
         while(in.hasNext()){
             String s = in.next();
-            // Write code here
+           // Write code here
             if(hm.containsKey(s)){
                 int val=hm.get(s);
                 System.out.println(s+"="+val);
