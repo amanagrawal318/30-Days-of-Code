@@ -17,7 +17,7 @@ public static int getFirst(Node head) {
     public static Node removeDuplicates(Node head) {
    
     Node curr = head; 
-  
+ 
         
         while (curr != null) { 
              Node temp = curr; 
