@@ -9,7 +9,7 @@ static void levelOrder(Node root){
               qu.add(cq.left);
           }
           if(cq.right!=null){
-              qu.add(cq.right);
+             qu.add(cq.right);
           }
       }
       
