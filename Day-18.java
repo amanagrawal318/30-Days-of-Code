@@ -6,7 +6,7 @@ public class Solution {
      st.push(ch);
     }
     public void enqueueCharacter(char ch){
-       qu.add(ch);
+      qu.add(ch);
     }
     public char popCharacter(){
       return st.pop();
