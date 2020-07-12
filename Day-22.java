@@ -11,7 +11,7 @@ public static int getHeight(Node root){
       }
       if(root.right!=null)
       {
-          myheight=Math.max(myheight,getHeight(root.right));
+         myheight=Math.max(myheight,getHeight(root.right));
       }
       return myheight+1;
     }
