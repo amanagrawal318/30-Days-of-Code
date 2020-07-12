@@ -9,7 +9,7 @@
                 max=Math.max(max,Math.abs(elements[i]-elements[j]));
             }
         }
-        this.maximumDifference=max;
+       this.maximumDifference=max;
     }
 
 } // End of Difference class
