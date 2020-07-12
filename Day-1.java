@@ -27,7 +27,7 @@ import java.util.regex.*;
          System.out.println(i+a);
          System.out.println(d+b);
          System.out.println(s.concat(A));
-            
+           
         scan.close();
     }
 }
