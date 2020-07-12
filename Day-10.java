@@ -25,7 +25,7 @@ public class Solution {
             }else{
                 sum=0;
             }
-            n=n/2;
+           n=n/2;
         }
         System.out.println(ans);
     }
