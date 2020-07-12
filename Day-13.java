@@ -5,7 +5,7 @@ class MyBook extends Book{
           this.price=p;
       }
       void display(){
-          System.out.println("Title: "+title);
+         System.out.println("Title: "+title);
           System.out.println("Author: "+author);
           System.out.println("Price: "+price);
       }
