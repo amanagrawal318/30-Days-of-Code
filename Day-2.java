@@ -5,6 +5,5 @@
         double tax=(meal_cost*tax_percent)/100;
         double sum;
         sum=meal_cost+tip+tax;
-
       System.out.println(Math.round(sum));
     }
