@@ -9,6 +9,6 @@ public static  Node insert(Node head,int data) {
         while(nn.next!=null){
             nn=nn.next;
         }
-        nn.next=temp;
+       nn.next=temp;
        return head;
     }
